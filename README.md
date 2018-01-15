@@ -18,6 +18,6 @@ for a random cat picture. When this request finishes, the app then makes another
 ### Your Task:
 
 1. Integrate `Butterknife` into the app and convert all `findViewById` methods to using Butterknife view bindings.
-2. Integrate `Picasso` into the app and use it to load the random cat image URL into the `ImageView`.
+2. Integrate `Glide` into the app and use it to load the random cat image URL into the `ImageView`.
 3. When you have finished integrating the two libraries, create a pull request against master.
 
